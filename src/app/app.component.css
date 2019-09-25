@@ -15,7 +15,8 @@
   }
   
   .img-article{
-      height: 350px;
+      height: 250px;
+      width: 250px;
   }
   
   .action-buttons{
@@ -30,13 +31,13 @@
   
   .example-sidenav-content {
       display: flex;
-      height: 75%;
+      height: 55%;
       align-items: center;
       justify-content: center;
   }
   
   .example-sidenav {
-      padding: 20px;
+      padding: 10px;
   }
   
   .source-name {
